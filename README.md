@@ -7,8 +7,8 @@ Command 			| Switch 	| Definition
 `docker images` 		| 		| Display images in local Docker image registry
 `docker ps`	 		| 		| Display running Docker containers
 `docker run <image_name>` 	| 		| Locates, downloads if necessary, and runs a Docker image 
-	| `-d`					| Detached mode, runs Docker container in background
-	| `-p localPort:containerPort`		| Maps local machine port # to Docker container port 
+| `-d`						| Detached mode, runs Docker container in background
+| `-p localPort:containerPort`			| Maps local machine port # to Docker container port 
 
 
 
