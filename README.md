@@ -1,9 +1,11 @@
 # Docker Commands
 
-Command | Switch | Definition
------------- | ------------- | -------------
-`docker --version` 	| 	| Display version info 
-`docker version` 	| 	| Display detailed version info of Docker client and server
+Command 		| Switch 	| Definition
+------------ 		| ------------- | -------------
+`docker --version` 	| 		| Display version info 
+`docker version` 	| 		| Display detailed version info of Docker client and server
+`docker images` 	| 		| Display images in local Docker image registry
+`docker ps`	 	| 		| Display running Docker containers
 
 Display version info  
 `docker --version`
