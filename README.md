@@ -13,7 +13,7 @@
 |`docker build <path / url>` 					| 						| Creates Docker image from Dockerfile in path / url 
 | 								| `-t <friendlyName>`				| Gives image a friendly name
 |`docker login` 						| 						| Login to a Docker repository 
-|`docker tag <imageName[:tag]> <imageName[:tag]>` 		| 						| Tag a Docker image 
-|`docker push <imageName[:tag]>` 				| 						| Push Docker image to repository
+|`docker tag <imageName> <user/repo[:tag]>` 			| 						| Tag a Docker image 
+|`docker push <user/repo[:tag]>` 				| 						| Push Docker image to repository
 
 
