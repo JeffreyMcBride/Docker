@@ -1,8 +1,17 @@
 # Docker Commands
-`docker --version`					Display version info - 17.06.0-ce build 02c1d87
-`docker version`					Display detailed version info of Docker client and server
-`docker images`						Display images in local Docker image registry
-`docker ps`						Display running Docker containers
+
+Display version info - 17.06.0-ce build 02c1d87
+`docker --version`
+
+Display detailed version info of Docker client and server
+`docker version`
+
+Display images in local Docker image registry
+`docker images`
+
+Display running Docker containers
+`docker ps`
+
 `docker run <image_name>`				Locates, downloads if necessary, and runs a Docker image
 `	-d`							Detached mode, runs Docker container in background
 `	-p localPort:containerPort`				Maps local machine port # to Docker container port #
