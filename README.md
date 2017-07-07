@@ -1,15 +1,15 @@
 # Docker Commands
 
-Display version info - 17.06.0-ce build 02c1d87
+Display version info - 17.06.0-ce build 02c1d87  
 `docker --version`
 
-Display detailed version info of Docker client and server
+Display detailed version info of Docker client and server  
 `docker version`
 
-Display images in local Docker image registry
+Display images in local Docker image registry  
 `docker images`
 
-Display running Docker containers
+Display running Docker containers  
 `docker ps`
 
 `docker run <image_name>`				Locates, downloads if necessary, and runs a Docker image
