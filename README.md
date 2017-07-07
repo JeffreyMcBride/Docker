@@ -1,5 +1,10 @@
 # Docker Commands
 
+Command | Switch | Definition
+------------ | ------------- | -------------
+`docker --version` 	| 	| Display version info 
+`docker version` 	| 	| Display detailed version info of Docker client and server
+
 Display version info  
 `docker --version`
 
