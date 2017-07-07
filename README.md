@@ -14,7 +14,8 @@ Display running Docker containers
 
 Locates, downloads if necessary, and runs a Docker image  
 `docker run <image_name>`  
-    Detached mode, runs Docker container in background  				
+
+    Detached mode, runs Docker container in background  
     `-d`  
     Maps local machine port # to Docker container port #  
     `-p localPort:containerPort`
